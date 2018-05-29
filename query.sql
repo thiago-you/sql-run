@@ -1,0 +1,3 @@
+CREATE TABLE `teste2` ( 
+	`id` INT NOT NULL AUTO_INCREMENT , `nome` INT NOT NULL 	, PRIMARY KEY (`id`)
+) ENGINE = InnoDB;
